@@ -367,6 +367,7 @@ td{
 .mobile_img {
     display: block;
     width: 100%;
+    height: 100%;
 }
 .reclaim_text {
     font-size: 10px;
@@ -387,7 +388,7 @@ td{
     font-size: 14px;
     font-weight: 400;
     color: #1B1D1F;
-    margin-bottom: 24px;
+    margin-bottom: 20px;
 }
 .reclaim_blue_btn {
     color: #1B1D1F;
@@ -395,7 +396,7 @@ td{
     font-weight: 500;
     text-decoration: none;
     background: #A9D8F4;
-    padding: 20px 24px;
+    padding: 12px 24px;
     border-radius: 30px;
     max-width: 100%;
 }
@@ -405,7 +406,7 @@ td{
     font-weight: 500;
     text-decoration: none;
     background: transparent;
-    padding: 20px 24px;
+    padding: 12px 24px;
     border-radius: 30px;
     border: 1px solid #1B1D1F;
     max-width: 100%;
@@ -433,9 +434,9 @@ td{
 }
 .reclaim_btn {
     display: flex;
-    gap: 12px;
+    gap: 10px;
     align-items: flex-start;
-    margin-bottom: 24px;
+    margin-bottom: 20px;
     flex-direction: column;
 }
 /*reclaim section*/
